@@ -1,0 +1,7 @@
+version = 1
+
+[[modules]]
+name = "TalkTimerCore"
+sourceRoot = "Sources/TalkTimerCore"
+proofRoot = "Proofs/TalkTimerCore"
+integerModel = "swiftChecked"
